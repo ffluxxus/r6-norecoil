@@ -18,7 +18,8 @@ This type of script is not new and is very public. I don't give a flying fuck wh
 R6 NoRecoil is a Logitech G Hub Lua Script to remove recoil from Rainbow Six Siege
 
 ### Supported functionalities
- - Configurable Realistic Recoil System (Anti-Blatant Cheating Counter)
+ - Hot-script Disabling
+ - Quick Keybind Changer
  - Manual Recoil Value Inputs
  - Operator List w/ Corresponding Values (Always Updated)
 
