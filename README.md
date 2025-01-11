@@ -1,6 +1,6 @@
 # Rainbow Six Siege | Recoil Control Script for Logitech G-Hub
 ## Current Status: 🟢
-## Current Season: Skopos (Twin Shells)
+## Current Season: BlackBeard (Collision Point)
 This type of script is not new and is very public. I don't give a flying fuck what you do with it <3
 
 ---
