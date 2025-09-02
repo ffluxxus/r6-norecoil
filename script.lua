@@ -1,4 +1,4 @@
-local recoilX = 0                            -- right / left | pos / neg
+local recoilX = 0                           -- right / left | pos / neg
 local recoilY = 0
 local disable = false
 local key = "capslock"
@@ -26,7 +26,7 @@ local key = "capslock"
 -- Dokkaebi(SS): (0,5)
 -- Kali: (1,5)
 -- Maverick: (1,6)
--- Deimos(PISTOL): (1,7)
+-- Deimos(PISTOL), Ash(HOLO), Ram(HOLO): (1,7)
 -- Blackbeard: (2,7)
 -- Sledge, Thatcher: (1,10)
 -- Thermite: (2,10)
@@ -39,12 +39,46 @@ local key = "capslock"
 -- Striker, Hibana: (0,14)
 -- IQ(AUG): (1,14)
 -- Dokkaebi: (-1,15)
--- Fuze, Ace: (0,14)
+-- Fuze, Ace: (0,15)
 -- Buck, Iana, Jackal: (1,15)
 -- Finka: (0,16)
 -- Nokk, Zero: (1,16)
 -- Ash, Ram: (0,18)
 -- Twitch: (0,25)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
